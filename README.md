@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at: [gueram's repositories](https://github.com/Gueram?tab=repositories)
 
-- 🔗 Connect with me: [linkedin.com/in/mgueram](linkedin.com/in/mgueram)
+- 🔗 Connect with me: [linkedin.com/in/mgueram](https://www.linkedin.com/in/mgueram)
 
 - 📫 How to reach me: gueram.minassian@gmail.com
 
