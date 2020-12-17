@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Gueram</h1>
-<h3 align="center">A junior fullstack developer from Paris</h3>
+<h1>Hi 👋, I'm Gueram</h1>
+<h3>A junior fullstack developer from Paris</h3>
 
-- 🔭 I’m currently working on ["Ou compost"](https://github.com/floamahe/oucompost)
+- 🔭 I’m currently working on ["Ou compost"](https://github.com/floamahe/oucompost) an organic waste recycling application
 
 - 🌱 I’m currently learning **React**
 
@@ -9,7 +9,7 @@
 
 - 🔗 Connect with me: [linkedin.com/in/mgueram](linkedin.com/in/mgueram)
 
-- 📫 How to reach me: **gueram.minassian@gmail.com**
+- 📫 How to reach me: gueram.minassian@gmail.com
 
 - ⚡ Fun fact: I am a former aerospace engineer ✈
 
