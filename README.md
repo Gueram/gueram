@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm Gueram</h1>
+<h1>Hi 👋 I'm Gueram</h1>
 <h3>A junior fullstack developer from Paris</h3>
 
 - 🔭 I’m currently working on ["Ou compost"](https://github.com/floamahe/oucompost) an organic waste recycling application
