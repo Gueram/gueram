@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on ["Ou compost"](https://github.com/floamahe/oucompost) an organic waste recycling application
 
-- 🌱 I’m currently learning **React**
-
 - 👨‍💻 All of my projects are available at: [gueram's repositories](https://github.com/Gueram?tab=repositories)
 
 - 🔗 Connect with me: [linkedin.com/in/mgueram](https://www.linkedin.com/in/mgueram)
